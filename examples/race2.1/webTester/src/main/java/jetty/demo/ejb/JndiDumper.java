@@ -40,4 +40,8 @@ public class JndiDumper
         }
         return DefaultImpl.INSTANCE;
     }
+    public JndiDumper()
+    {
+        
+    }
 }
